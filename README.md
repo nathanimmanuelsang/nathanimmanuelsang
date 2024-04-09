@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I am Nathan Immanuel Sang 👋
+### This is my personal account 😄
 
+- 🔭 I’m currently working on Portfolio
+- 📫 How to reach me: nathan.sang2015@gmail.com
 <!--
 **nathanimmanuelsang/nathanimmanuelsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
